@@ -20,6 +20,11 @@ I have strong advantages of the following technologies
 - Other tools/service I usually use
   - Github / Jira / Zendesk / Datadog / etc.. 
   
+# Zendesk App
+
+- Holiday Schedules: https://www.zendesk.com/apps/support/holiday-schedules/ - Github https://github.com/toru-takahashi/zendesk-holiday-schedules
+  - Import Holidays from your Google calendar to Holidays in Zendesk Schedules
+
 # Carrer
 
 WIP
