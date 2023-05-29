@@ -1,7 +1,7 @@
 ## Job Description
 
 ## Basic Information
-- Name: Tatsu Takahashi
+- Name: Toru Takahashi
 - [Blog in JP](https://blog.torut.tokyo/) / [Blog in EN](https://nora96o.medium.com/)
 - [Twitter](https://twitter.com/nora96o) / [linkedin](https://www.linkedin.com/in/torutakahashi/) / [Github](https://github.com/toru-) takahashi)
 
