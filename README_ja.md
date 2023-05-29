@@ -20,16 +20,16 @@
 
 - Arm社から独立し、再度トレジャーデータとしてビジネスを開始
 - サービスの製品ドキュメントを担当するProduct Documentationチームを加え、カスタマーエクスペリエンスチームを組織し、その組織のグローバルの責任者に就任。
-- グローバルで日本、US、UKの3拠点で25名のチームの責任を持つ。
+- グローバルで日本、US、UKの3拠点で25名のチームの責任を持っています。
 - グローバルで年間サポートチケット約7000件対応、平均チケット解決時間24時間、サポート満足度99.2%
-- 現在は、Chief Product Technical Officerへのレポートを行なっている。
+- 現在は、Chief Product Technical Officerへのレポートを行なっています。
 
 ### アーム株式会社 (Jul, 2018 - Oct, 2022)
 
 サポートエンジニア部門のマネージャー -> シニアサポートマネージャー -> ディレクター
 
-- Arm社によるトレジャーデータ社の買収に伴い、Armのデータビジネス部門に所属 [link](https://prtimes.jp/main/html/rd/p/000000027.000022759.html)
-- 組織統合に向けた種々の社内システム対応を実施。そうした変化の中でグローバルサポートのクオリティを継続して担保。結果として、ガートナー社によるMagic Quadrant for Data Management Solutions for Analyticsの業界調査にて、Treasure Dataが選ばれた際にはその顧客による評価にて、技術サポートが大きく顧客満足度に貢献し、他ベンダーと比べて上位という評価を得る[Link](https://b2bsalescafe.files.wordpress.com/2019/09/gartner-magic-quadrant-for-data-management-solutions-for-analytics-january-2019.pdf)
+- Arm社によるトレジャーデータ社の買収に伴い、Armのデータビジネス部門に所属 [(link)](https://prtimes.jp/main/html/rd/p/000000027.000022759.html)
+- 組織統合に向けた種々の社内システム対応を実施。そうした変化の中でグローバルサポートのクオリティを継続して担保。結果として、ガートナー社によるMagic Quadrant for Data Management Solutions for Analyticsの業界調査にて、Treasure Dataが選ばれた際にはその顧客による評価にて、技術サポートが大きく顧客満足度に貢献し、他ベンダーと比べて上位という評価を得ることができました。[(Link)](https://b2bsalescafe.files.wordpress.com/2019/09/gartner-magic-quadrant-for-data-management-solutions-for-analytics-january-2019.pdf)
 - サポート組織のR&D部門からCustomer Success部門への組織変更
 
 ### トレジャーデータ株式会社 (May, 2015 - Jun, 2018)
@@ -101,7 +101,7 @@ Indivual Contributer(IC)としての働き方が個人的には好きですし�
 
 社内外の勉強会、カンファレンスで発表を行っています。
 
-- [サポートエンジニアのためのミートアップ全四回主催]（https://techplay.jp/event/690587）
+- [サポートエンジニアのためのミートアップ全四回主催](https://techplay.jp/event/690587)
 - [0人から6人のグローバルサポートチーム、そしてArmへ (髙橋 達 トレジャーデータ株式会社)](https://techplay.jp/column/524)
 - [CRE・サポートエンジニアとデータ分析・GDPRやリタゲ広告について　 vol. 11](https://www.youtube.com/watch?v=KYbTSp4-44Y)
 - [ダイヤモンド社主催「顧客起点の経営戦略」](https://promo.diamond.jp/sp/dbf-customersuccess220512/)
