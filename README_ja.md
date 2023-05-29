@@ -5,20 +5,6 @@
 - [Blog in JP](https://blog.torut.tokyo/) / [Blog in EN](https://nora96o.medium.com/)
 - [Twitter](https://twitter.com/nora96o) / [linkedin](https://www.linkedin.com/in/torutakahashi/) / [Github](https://github.com/toru-takahashi)
 
-## スキル
-### プログラミング言語
-- Ruby, Python, Java, Javascript, Go, etc
-- デバッグのためにコードリーディングやスクリプトを書いたり、不具合修正程度は可能ですが、フルスクラッチでの大型のシステム開発経験は弱いです
-
-### フレームワーク、Middleware、Hardware
-- Railsなどは利用しますが、特定のフレームワークを使った大型の開発に慣れ親しんでいるわけではありません。
-- AWS, GCP, Azure, etc
-- Ubuntu, CentOS, etc
-
-### その他
-- SaaSのサービス開発・特にスタートアップフェーズにおいてはアジャイル型の開発手法をとっていました。
-- またCI/CDやカナリアリリース、ブルーグリーンデプロイ方式など顧客環境にいかに安全にリリースするかの一般的な手法について知見があります。
-
 ## 言語
 
 - 日本語
@@ -26,31 +12,69 @@
 - 英語
   - US/EMEAなどに在籍するメンバーへのマネジメントができる程度に喋れます
 
+## 職務経歴
+
+### Senior Director, Customer Experience - Treasure Data, K.K. ()
+
+- サービスの製品ドキュメントを担当するProduct Documentationチームを加え、カスタマーエクスペリエンスチームを組織し、その組織のグローバルの責任者に就任。
+
+### Director, Support Engineering - Treasure Data, K.K. ()
+
+- https://www.treasuredata.co.jp/blog/nvidia-to-acquire-arm/
+- 
+
+### Manager, Support Engineering - Data Business unit at Arm, K.K. ()
+
+- Arm社によるトレジャーデータ社の買収に伴い、Armのデータビジネス部門に所属 [link](https://prtimes.jp/main/html/rd/p/000000027.000022759.html)
+- 組織統合に向けた種々の社内システム対応を実施。そうした変化の中でグローバルサポートのクオリティを継続して担保。結果として、ガートナー社によるMagic Quadrant for Data Management Solutions for Analyticsの業界調査にて、Treasure Dataが選ばれた際にはその顧客による評価にて、技術サポートが大きく顧客満足度に貢献し、他ベンダーと比べて上位という評価を得る[Link](https://b2bsalescafe.files.wordpress.com/2019/09/gartner-magic-quadrant-for-data-management-solutions-for-analytics-january-2019.pdf)
+
+### Manager, Support Engineering - Treasure Data, K.K. (May 2015 - Jun 2018)
+
+### Technical Support Engineer, Treasure Data, K.K. (May 2015 - Jun 2018)
+
+### Software Engineer, SIOS Technology, Inc. (Apr 2013 - Apr 2015)
+
+- 自社でのビッグデータ部門立ち上げ期に新卒で入社。
+- トレジャーデータの日本での最初の代理店として、広告代理店の広告配信のレポーティングや分析業務を実施
+- 技術営業としてトレジャーデータやTableauの案件提案やデモ作成・実施
+- トレジャーデータ社の一人目のサポートエンジニアとして常駐業務。トレジャーデータ社のグローバルの顧客をサポート
+
+## 学歴
+
+- 仙台高等専門学校 情報システム工学専攻 修了
+- 奈良先端科学技術大学院大学　情報　修士課程 修了
+
+## スキル
+### プログラミング言語、フレームワーク、Middleware、Hardware、サービス
+- Ruby, Python, Java, Javascript, Go, etc
+- AWS, GCP, Azure, etc
+- Ubuntu, CentOS, etc
+- Zendesk, Confluence, Github, Salesforce, etc
+
+デバッグのためにコードリーディングやスクリプトを書いたり、不具合修正程度は可能です。
+例えば、トレジャーデータのAPIライブラリはモバイル向けであったり、ブラウザ向けだったりさまざまな言語での提供があるため、どの言語であってもコードを読んで不具合特定や簡単な修正までは可能です。その一方で、フルスクラッチで0から大型のシステム開発を作ったりはあまり経験がないです。例えば、0から分散DBは作る好きはないですが、AWSなどの既存IaaS/SaaSを組み合わせてシステムを作ったりすることは得意です。
+
+### その他
+- SaaSのサービス開発・特にスタートアップフェーズにおいてはアジャイル型の開発手法をとっていました。
+- またCI/CDやカナリアリリース、ブルーグリーンデプロイ方式など顧客環境にいかに安全にリリースするかの一般的な手法について知見があります。
+- トレジャーデータではリリースセーフティアドバイザプロセスを作り、サポートチームとR&Dチームでリリースを評価し、顧客状況や安定性に配慮したリリースを行なっており、そこに対してのコントリビューションを行っていました。
+
+
 ## 強み・弱み
 
 - USベースのスタートアップのビジネススタートフェーズからARR $200Mに至るまで、さらには買収・再独立、10数人のフェーズから600人のフェーズまでを経験しており、組織の成長のタイミングにおける様々な課題や解決方法を経験している。
 - グローバルで一人目のテクニカルサポートエンジニアとしてサービスを支え、グローバルの責任者として25名ほどのチームになるまで成長させた。さらにはサポートエンジニアだけでなく、オペレーションやプロダクトドキュメンテーションといった組織も兼任してリードした。
 - OSS文化を通して、Fluentd / Embulk / Digdagやその他の様々なデータに関わるOSSを通してOSSにコントリビューションしたり、そのエコシステム作りに慣れている
+- 0から始めることが多いため、プロセスやサービスなど含めてキャッチアップや使いこなすまでが非常に早いと思います。
 
-## 価値観
+## キャリアへの考え方
 
-- 
+データを扱う人たちが最大限能力を活かすための支援をしたいと考えています。
+世の中の才能豊かな人たちが、より良い社会を作るために、ちょっとした知識不足で良いサービスを最大限活用できていないことが非常にもったいなく感じています。この知識ギャップを埋める仕事を中心にキャリアを考えています。
+この問題は、サポートだけでなくソリューションアーキテクトやデベロッパーリレーションなど様々な役割によって達成されるものだと考えているため、特定の職種に限らず幅広く取り組みをしたいと思っています。
 
-## 興味・関心
-
-- データに関わるサービスやシステムに携わることです
-
-## 職務経歴
-### yyyy/mm - 現在 : 会社名、プロジェクト名
-#### 職務内容
-#### 職務の中で学んだことや得られた知識・スキルなど
-
-### yyyy/mm - yyyy/mm: （以前の企業名、プロジェクト名）
-#### 職務内容
-#### 職務の中で学んだことや得られた知識・スキルなど
-
-### SIOS Technology, Inc. (Apr 2013 - Apr 2015)
-Software Engineer
+Indivual Contributer(IC)としての働き方が個人的には好きですし得意です。
+一方でマネジメントスキルにおけるチームメンバーの育成や課題解決といった側面は不得手なため、逆にいうと自分自身の能力として伸ばさないといけないとも思っています。とはいえ、IC/マネジメントどちらでもビジネスの状況に応じて臨機応変に対応ができます。
 
 ## 課外活動
 
@@ -59,6 +83,8 @@ Software Engineer
 
 ### 受賞歴
 - [Zendesk Community Champion 2018, 2019, 2021](https://www.zendesk.co.jp/company/press/zendesk-community-champion2021-jp/)
+
+Zendeskのコミュニティ活動を行なっており、その成果をZendesk社より3年連続で表彰されました。
 
 ### 執筆歴
 - [Qiita](https://qiita.com/toru-takahashi)
