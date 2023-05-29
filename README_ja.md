@@ -14,30 +14,36 @@
 
 ## 職務経歴
 
-### Senior Director, Customer Experience - Treasure Data, K.K. ()
+### トレジャーデータ株式会社　(Nov, 2022 - Current)
 
+サポート部門のDirector　-> カスタマーエクスペリエンス部門のSenior Director
+
+- Arm社から独立し、再度トレジャーデータとしてビジネスを開始
 - サービスの製品ドキュメントを担当するProduct Documentationチームを加え、カスタマーエクスペリエンスチームを組織し、その組織のグローバルの責任者に就任。
+- グローバルで日本、US、UKの3拠点で25名のチームの責任を持つ。
+- グローバルで年間サポートチケット約7000件対応、平均チケット解決時間24時間、サポート満足度99.2%
+- 現在は、Chief Product Technical Officerへのレポートを行なっている。
 
-### Director, Support Engineering - Treasure Data, K.K. ()
+### アーム株式会社 (Jul, 2018 - Oct, 2022)
 
-- https://www.treasuredata.co.jp/blog/nvidia-to-acquire-arm/
-- 
-
-### Manager, Support Engineering - Data Business unit at Arm, K.K. ()
+サポートエンジニア部門のマネージャー -> シニアサポートマネージャー -> ディレクター
 
 - Arm社によるトレジャーデータ社の買収に伴い、Armのデータビジネス部門に所属 [link](https://prtimes.jp/main/html/rd/p/000000027.000022759.html)
 - 組織統合に向けた種々の社内システム対応を実施。そうした変化の中でグローバルサポートのクオリティを継続して担保。結果として、ガートナー社によるMagic Quadrant for Data Management Solutions for Analyticsの業界調査にて、Treasure Dataが選ばれた際にはその顧客による評価にて、技術サポートが大きく顧客満足度に貢献し、他ベンダーと比べて上位という評価を得る[Link](https://b2bsalescafe.files.wordpress.com/2019/09/gartner-magic-quadrant-for-data-management-solutions-for-analytics-january-2019.pdf)
+- サポート組織のR&D部門からCustomer Success部門への組織変更
 
-### Manager, Support Engineering - Treasure Data, K.K. (May 2015 - Jun 2018)
+### トレジャーデータ株式会社 (May, 2015 - Jun, 2018)
 
-### Technical Support Engineer, Treasure Data, K.K. (May 2015 - Jun 2018)
+- R%D部門に所属し、グローバルで一人目のテクニカルサポートエンジニアとして採用。
+- トレジャーデータに関わるすべての技術スタックに対するテクニカルサポートを日本語・英語で提供
+- US/日本でそれぞれサポートエンジニアが増える中でサポートエンジニアのマネージャーに就任
 
-### Software Engineer, SIOS Technology, Inc. (Apr 2013 - Apr 2015)
+### サイオステクノロジー株式会社(Apr 2013 - Apr 2015)
 
-- 自社でのビッグデータ部門立ち上げ期に新卒で入社。
-- トレジャーデータの日本での最初の代理店として、広告代理店の広告配信のレポーティングや分析業務を実施
-- 技術営業としてトレジャーデータやTableauの案件提案やデモ作成・実施
-- トレジャーデータ社の一人目のサポートエンジニアとして常駐業務。トレジャーデータ社のグローバルの顧客をサポート
+- ソフトウェアエンジニアとして新卒入社。ビッグデータ部門立ち上げに伴い配属。
+- トレジャーデータの日本での最初の代理店として、トレジャーデータの販促活動のためのプリセールス活動
+- 広告代理店の広告配信のインプレッションも含めたコンバージョン分析業務
+- トレジャーデータ社の一人目のサポートエンジニアとして常駐業務し、トレジャーデータ社のグローバルの顧客をサポートを実施
 
 ## 学歴
 
@@ -90,6 +96,8 @@ Indivual Contributer(IC)としての働き方が個人的には好きですし�
 社内外の勉強会、カンファレンスで発表を行っています。
 
 - [サポートエンジニアのためのミートアップ全四回主催]（https://techplay.jp/event/690587）
+- [0人から6人のグローバルサポートチーム、そしてArmへ (髙橋 達 トレジャーデータ株式会社)](https://techplay.jp/column/524)
+- [CRE・サポートエンジニアとデータ分析・GDPRやリタゲ広告について　 vol. 11](https://www.youtube.com/watch?v=KYbTSp4-44Y)
 - [ダイヤモンド社主催「顧客起点の経営戦略」](https://promo.diamond.jp/sp/dbf-customersuccess220512/)
 - [Wovn.io 公開事例](https://mx.wovn.io/casestudy/treasuredata)
 - [そのほか過去の登壇資料](https://www.slideshare.net/torutakahashi100)
@@ -106,7 +114,3 @@ Zendeskのコミュニティ活動を行なっており、その成果をZendesk
 ログ＆データ分析基盤入門](https://gihyo.jp/magazine/SD/archive/2017/201703)
 - 2015 - [Gihyo.jp - これなら使える！ビッグデータ分析基盤のエコシステム](https://gihyo.jp/list/group/%E3%81%93%E3%82%8C%E3%81%AA%E3%82%89%E4%BD%BF%E3%81%88%E3%82%8B-%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%9F%BA%E7%9B%A4%E3%81%AE%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
 - [過去の技術記事@Qiita](https://qiita.com/toru-takahashi)
-
-### 趣味プロダクト
-
-
